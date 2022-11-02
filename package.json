@@ -1,0 +1,26 @@
+{
+  "name": "m3-w1-d3-homework",
+  "version": "1.0.0",
+  "description": "MBA Web Dev HW - Express.js cont'd w/pug",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdfergus/m3-w1-d3-homework.git"
+  },
+  "author": "Shandira Ferguson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdfergus/m3-w1-d3-homework/issues"
+  },
+  "homepage": "https://github.com/sdfergus/m3-w1-d3-homework#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
